@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @heatherjamescomau
-- 👀 I’m interested in design, web, 3D, animations, & photography
-- 🌱 I’m currently learning anything really!
+- 👋 Hi, I’m Heather Chief Remote Pilot at @prodroneimagery
+- 👀 I’m interested in drones, design, 3D, animations, video production & photography
+- 🌱 I’m currently learning anything really to improve my skills!
 - 💞️ I’m looking to collaborate on php, javascript but mainly learning Python
 - 📫 How to reach me... yeah I will leave this one out, I'm pretty busy and probably won't get back to you! Soz!
 
